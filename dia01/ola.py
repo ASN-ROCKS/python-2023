@@ -1,0 +1,8 @@
+print("Olá mundo!")
+print("Olá mundo!")
+print("Olá mundo!")
+print("Olá mundo!")
+print("Olá mundo!")
+print("Olá mundo!")
+print("Olá mundo!")
+print(1+1)
