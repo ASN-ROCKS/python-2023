@@ -1,23 +1,26 @@
 Principais objetos do Pandas
-- Series
-- Dataframes
+- [X] Series
+- [X] Dataframes
 
 Importando arquivos
-- csv, xlsx, parquet
+- [X] csv, xlsx, parquet
 
 Navegando pelos dados
-- Informações básicas e tipos de colunas
-- Navegação em linhas e colunas
-- Renomeando colunas
-- Condições lógicas (filtros)
+- [X] Informações básicas e tipos de colunas
+- [X] Navegação em linhas e colunas
+- [X] Renomeando colunas
+- [X] Condições lógicas (filtros)
 
 Modificando dados
-- Criação, transformação e remoção de colunas
+- [X] Criação, transformação e remoção de colunas
 - Ordenação
-- Conversão de tipos
-- A função apply
-- Removendo duplicatas
+- [X] Conversão de tipos
+- [X] A função apply
+- [X] Removendo duplicatas
 - Trabalhando com NAs
+
+Agrupamento:
+-[ ] Group by
 
 Cruzamento de dados
 - Merge
