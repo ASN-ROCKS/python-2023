@@ -13,18 +13,18 @@ Navegando pelos dados
 
 Modificando dados
 - [X] Criação, transformação e remoção de colunas
-- Ordenação
+- [X] Ordenação
 - [X] Conversão de tipos
 - [X] A função apply
 - [X] Removendo duplicatas
-- Trabalhando com NAs
+- [X] Trabalhando com NAs
 
 Agrupamento:
 -[ ] Group by
 
 Cruzamento de dados
-- Merge
-- Concat
+-[ ] Merge
+-[ ] Concat
 
 Conectando com banco de dados
 - Importando dados
