@@ -20,11 +20,11 @@ Modificando dados
 - [X] Trabalhando com NAs
 
 Agrupamento:
--[ ] Group by
+-[X] Group by
 
 Cruzamento de dados
--[ ] Merge
--[ ] Concat
+-[X] Merge
+-[X] Concat
 
 Conectando com banco de dados
 - Importando dados
