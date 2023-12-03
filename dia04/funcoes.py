@@ -63,6 +63,3 @@ soma(1,10)
 
 
 # %%
-
-*args
-**kwargs
